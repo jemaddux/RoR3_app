@@ -124,7 +124,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.1)
-  rspec
+  rspec (= 2.0.1)
   rspec-rails
   sass-rails (~> 3.2.3)
   sqlite3
