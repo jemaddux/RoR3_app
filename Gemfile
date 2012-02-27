@@ -12,6 +12,7 @@ gem 'sqlite3'
 # in production environments by default.
 group :development do
 	gem 'rspec-rails'
+	#gem 'annotate-models'
 end
 
 group :test do
